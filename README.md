@@ -1,20 +1,12 @@
----
-title: API Reliability RL Agent
-emoji: 🚀
-colorFrom: blue
-colorTo: purple
-sdk: docker
-app_file: app.py
-pinned: false
----
 
-# 🚀 API Reliability RL Agent
+
+# API Reliability RL Agent
 
 *A Decision Intelligence System for Smart API Optimization*
 
 ---
 
-# 🧠 Overview
+#  Overview
 
 This project implements a **decision intelligence system** that optimizes API usage under uncertain conditions using **Reinforcement Learning (RL)-inspired logic**.
 
@@ -25,11 +17,11 @@ Instead of blindly calling APIs, the system:
 * evaluates the outcome
 * improves decisions over time
 
-👉 Goal: **maximize success, minimize latency, and reduce cost**
+ Goal: **maximize success, minimize latency, and reduce cost**
 
 ---
 
-# 🎯 Problem Statement
+#  Problem Statement
 
 Real-world APIs are unreliable due to:
 
@@ -40,11 +32,11 @@ Real-world APIs are unreliable due to:
 
 Traditional systems use fixed rules, which are inefficient.
 
-👉 This project builds a **dynamic decision engine** that adapts in real time.
+ This project builds a **dynamic decision engine** that adapts in real time.
 
 ---
 
-# ⚙️ Core Concept
+#  Core Concept
 
 The system follows a Reinforcement Learning loop:
 
